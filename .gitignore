@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/processed/*.db
+data/processed/*.db-shm
+data/processed/*.db-wal
+.env
+.env.*
+!.env.example

@@ -1,0 +1,1 @@
+"""Data generation and ETL for the synthetic event analytics project."""

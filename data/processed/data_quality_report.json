@@ -1,0 +1,20 @@
+{
+  "synthetic_data": true,
+  "source_rows": 367,
+  "missing_values_by_column": {
+    "city": 1,
+    "venue": 1
+  },
+  "duplicate_rows": 1,
+  "duplicate_event_ids": 1,
+  "invalid_rows": 4,
+  "invalid_row_ids": [
+    "QC-MISSING-CITY",
+    "QC-INVALID-DATE",
+    "QC-INVALID-TICKETS",
+    "QC-INVALID-CAPACITY"
+  ],
+  "clean_rows": 361,
+  "removed_rows": 6,
+  "database_rows": 361
+}
